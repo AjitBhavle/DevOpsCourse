@@ -1,0 +1,6 @@
+Azure DevOps CI-CD Repo:
+https://github.com/in28minutes/devops-master-class/tree/master/projects/microservices/01-currency-exchange-microservice-basic/pipeline-backups
+
+
+Failsafe plugin in mvn use to run integration test cases 
+
